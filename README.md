@@ -1,5 +1,15 @@
 ### Hi there 👋 Hello World I am Dr. Jeffer AL Kuwaiti
 
+<body>
+<p><strong>HOBBIES AND INTERESTS</strong><br />
+Historiography<br />
+Archaeology<br />
+Agronomy<br />
+Swimming<br />
+Walking<br />
+Camping<br />
+Documentaries<br />
+Movies</p>
 
 
 
