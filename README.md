@@ -1,4 +1,8 @@
 ### Hi there 👋 Hello World I am Dr. Jeffer AL Kuwaity
+
+<img align="right" src="https://github.com/JefferAlKuwaity/Dr-Jeffer-Al-Kuwaity/blob/main/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA/%D8%B5%D9%88%D8%B1/260063_156468137755087_1146905_n__1_-removebg-preview.png">
+
+
 # المقدمة
 الدكتور جعفر الكويتي 1938 - 2021 طبيب عراقي اختصاصي بامراض القلب والصدر، ولد في مدينة الكوفة في العراق ابان العهد الملكي، الدكتور جعفر الكويتي هو الابن البكر للحاج الميرزا صادق الكويتي، والميرزا صادق هو ابن ميرزا جعفر بن ميرزا محمد بن ميرزا حسن بن ميرزا باقر، وهي أسرة تجارية عريقة هاجرت من الكويت للكوفة لذا لقبوا بالكويتي و كانت لهم خانات للشلب في مدينة الكوفة.
 # التحصيل العلمي
@@ -14,7 +18,8 @@
 <!--
 **JefferAlKuwaiti/JefferAlKuwaiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github.com/JefferAlKuwaity/Dr-Jeffer-Al-Kuwaity/blob/main/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA/%D8%B5%D9%88%D8%B1/260063_156468137755087_1146905_n__1_-removebg-preview.png
+
+![alt text](https://github.com/JefferAlKuwaity/Dr-Jeffer-Al-Kuwaity/blob/main/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA/%D8%B5%D9%88%D8%B1/260063_156468137755087_1146905_n__1_-removebg-preview.png)
 
 Here are some ideas to get you started:
 
